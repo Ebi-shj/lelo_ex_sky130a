@@ -16,7 +16,7 @@ ebi
 
 
 # What
-
+current mirror design in Sky130
 
 | What            |        Cell/Name |
 | :----           |  :----:       |
